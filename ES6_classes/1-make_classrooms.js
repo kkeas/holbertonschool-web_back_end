@@ -10,6 +10,3 @@ function initializeRooms() {
 
   return rooms;
 }
-
-const classrooms = initializeRooms();
-console.log(classrooms);
